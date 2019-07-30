@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Your own server",
+            "type": "al",
+            "request": "launch",
+            "server": "http://bsuserpass06",
+            "serverInstance": "nav",
+            "authentication": "UserPassword",
+            "startupObjectId": 31,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "breakOnRecordWrite": false,
+            "launchBrowser": true,
+            "port": 7049
+        }
+    ]
+}
+
+// ws access key: 4YD5pGc7W1daGnKq8tHmOqqDWPwDLypAQ82WeEJNnJk
